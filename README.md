@@ -11,5 +11,7 @@ This repository contains my machine learning implementations developed for compa
 
    1st notebook: SFC Complete Analysis + Loan Status and Payment Amounts Data Preparation Notebook- Data analysis and preparation for predicting loan status and actual payment     
    amounts.
+   
    2nd notebook: SFC Loan Status Modelling- Predicting a loan status indicating the loan status in the next 6 months.
+   
    3rd notebook: SFC SOLAR Payment Amounts Modelling Final Solution- Predicting expected customer payments for the next 6 months
