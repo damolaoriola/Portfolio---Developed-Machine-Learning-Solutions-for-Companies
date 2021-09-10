@@ -17,7 +17,7 @@ This repository contains my machine learning implementations developed for compa
    3rd notebook: SFC SOLAR Payment Amounts Modelling Final Solution- Predicting expected customer payments for the next 6 months
    
    
-#2 Zindi AI-4D Yoruba Machine Translation System:
+# 2 Zindi AI-4D Yoruba Machine Translation System:
 
    3rd place solution- Deep learning MT5 Tranformer Model for translating Yoruba sentences to English sentences. Developed for AI4D-Africa; Artificial Intelligence for  
    Development-Africa Network.
